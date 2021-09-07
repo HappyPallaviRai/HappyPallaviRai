@@ -1,6 +1,7 @@
 <h1 align="center"> Hey There !! <img src = "https://i.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.webp" width = 50px> I'm Pallavi</h1>
-
 <p align="center"> Thank you for visiting my profile!! </p>
+
+
 ---
 
 <p align="center"> I am a full stack developer having 5+ years of experience as a polyglot programmer with end to end software delivery which includes, development from scratch to deployment. </p>
@@ -19,7 +20,7 @@
 
 <p>
 <img alt="Kubernetes Programming" src="./awards/2021-09-07_11h42_30.png" style="height: 340px;width:340px"/>
-<img alt="Udemy Angular" src="./awards/Angular.png"style="height: 340px;width:340px"/>
+<img alt="Udemy Angular" src="./awards/angular.png"style="height: 340px;width:340px"/>
 <img alt="Appreciation Ceritificate" src="./awards/Appreciation Certificate.png"style="height: 340px;width:340px"/>
 <img alt="Employee Of Month April" src="./awards/EOMApril.png" style="height: 340px;width:340px"/>
 <img alt="Employee Of Month September" src="./awards/EOMSEP.png" style="height: 340px;width:340px"/>
