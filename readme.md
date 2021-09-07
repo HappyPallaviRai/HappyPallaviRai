@@ -43,7 +43,7 @@
 <br/>
 
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HappyPallaviRai&show_icons=true&locale=en&theme=nightowl" alt="HappyPallaviRai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HappyPallaviRai&show_icons=true&locale=en&theme=nightowl&count_private=true" alt="HappyPallaviRai" /></p>
 </div>
 
 ---
