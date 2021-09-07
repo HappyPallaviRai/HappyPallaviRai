@@ -40,16 +40,16 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HappyPallaviRai&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="HappyPallaviRai" /></p>
 </div>
-<br/>
 
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HappyPallaviRai&show_icons=true&locale=en&theme=nightowl&count_private=true" alt="HappyPallaviRai" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HappyPallaviRai&show_icons=true&locale=en&theme=nightowl&count_private=true" alt="HappyPallaviRai" /></p>
 </div>
+
 
 ---
 
-
-<h2> Do you like to chat with me? </h2>
+<div>
+<h2> Let's connect </h2>
 
 
  [<img src="https://img.shields.io/badge/MeetMe-00897B?style=square&logo=Google-Meet&logoColor=white" />](https://go.oncehub.com/PallaviRai)
@@ -60,3 +60,5 @@
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=square&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/4456477/pallavi-rai)
 
 [<img src="https://img.shields.io/badge/Facebook-1167b1?style=square&logo=facebook&logoColor=white"/>](https://www.facebook.com/pallavi.rai.125)
+
+</div>
